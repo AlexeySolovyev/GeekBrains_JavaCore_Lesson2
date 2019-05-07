@@ -1,3 +1,5 @@
+/*Урок 2. Исключения*/
+
 import exception.MyArrayDataException;
 import exception.MyArraySizeException;
 
